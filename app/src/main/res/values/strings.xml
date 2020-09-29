@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Qué hay!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Opciones-->
+    <string name="inicio_string">Inicio</string>
+    <string name="bienvenido_string">Bienvenido!</string>
+    <string name="catalogo_articulos">Lo que tenemos!</string>
+    <string name="sugerencia_string">Lo que podríamos tener</string>
+
+
+    <string name="bar_bottom_frutas">Frutas</string>
+    <string name="bar_bottom_verduras">Verduras</string>
+    <string name="bar_bottom_abarrotes">Abarrotes</string>
+    <string name="bar_bottom_semillas">Semillas</string>
+    <string name="bar_bottom_otros">Otros</string>
+
+
+    <string name="action_search">Buscar artículo...</string>
+
+    <string name="sugerencia_string_detalle">En recaudería Doña Efi siempre encontrarás las mejores frutas y verduras con la mejor calidad y al mejor precio. Todos nuestros artículos son frescos y comprados el mismo día</string>
+
+
+
+</resources>

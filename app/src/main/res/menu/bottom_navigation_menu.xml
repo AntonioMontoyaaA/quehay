@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="50dp">
+    <item
+        android:id="@+id/navigation_frutas"
+        android:icon="@drawable/ic_frutas_bar_menu"
+        android:title="@string/bar_bottom_frutas"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_verduras"
+        android:icon="@drawable/ic_vege_bar_menu"
+        android:title="@string/bar_bottom_verduras"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_abarrotes"
+        android:icon="@drawable/ic_enlatados_bar_menu"
+        android:title="@string/bar_bottom_abarrotes"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_semillas"
+        android:icon="@drawable/ic_semillas_bar_menu"
+        android:title="@string/bar_bottom_semillas"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_otros"
+        android:icon="@drawable/ic_otros_bar_menu"
+        android:title="@string/bar_bottom_otros"
+        app:showAsAction="ifRoom" />
+</menu>
